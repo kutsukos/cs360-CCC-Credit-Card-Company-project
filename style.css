@@ -1,0 +1,18 @@
+body {
+  background-position: left top;
+  background-repeat: repeat;
+  font-family: 'Roboto Condensed', sans-serif;
+  background: url("http://subtlepatterns2015.subtlepatterns.netdna-cdn.com/patterns/seigaiha.png");
+  width: 90%;
+  margin: auto;
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+}
+
+a:link
+{
+  text-decoration:none;
+}
